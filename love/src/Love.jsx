@@ -284,7 +284,6 @@ function LetterScreen({ onNext }) {
         </div>
       </div>
 
-      <HeartDivider label="our favourite moments"/>
     </div>
   );
 }
