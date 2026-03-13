@@ -285,7 +285,6 @@ function LetterScreen({ onNext }) {
       </div>
 
       <HeartDivider label="our favourite moments"/>
-      <PinkBtn onClick={onNext} anim={false}>Our Memories ♥</PinkBtn>
     </div>
   );
 }
