@@ -182,7 +182,7 @@ function WelcomeScreen({ onNext }) {
         a little something for you ✦
       </p>
       <h1 style={{fontFamily:"'Great Vibes',cursive",fontSize:"clamp(2.8rem,12vw,6.2rem)",color:"var(--purple-deep)",lineHeight:1.1,textShadow:"0 2px 26px rgba(180,130,220,0.2)",animation:"bloomIn 1.4s ease both",position:"relative"}}>
-        Happy Birthday,<br/>My Dearest Nishu
+        Happy Birthday,<br/>My Dearest Pradnya
       </h1>
       <Divider label="a garden of love awaits inside"/>
       <Btn onClick={onNext}>Open Your Gift ✦</Btn>
